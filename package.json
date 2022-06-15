@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "github:discordjs/opus",
+    "discord-speech-recognition": "^2.2.0"
+  }
+}
